@@ -1,0 +1,1 @@
+{"sender":"xxxxxxxxxxx","pass":"xxxx","dsp":"xxxxxx","host":"email-ssl.com.br","port":"587","enable":"true"}
